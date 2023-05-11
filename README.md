@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me: noonsilk+-github@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I [love books](https://betweenbooks.com.au/).
 - 👯 I’m looking to collaborate on: **the climate emergency**.
  
