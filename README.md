@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me: noonsilk+-github@gmail.com
-- ⚡ Fun fact: I [love books](https://betweenbooks.com.au/).
+- ⚡ Fun fact: I [love books](https://betweenbooks.github.io/).
 - 👯 I'm looking to collaborate on: **the climate emergency**.
 - 🌱 My resume is here: <https://silky.github.io/resume/>
 
